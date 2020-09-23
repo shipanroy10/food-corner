@@ -1,0 +1,13 @@
+ .detail{
+    width:50vh;height:50vh;background-size:10vh;background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;margin: 10px;
+    margin-top: 100px;
+    text-align: center;
+    margin-left: 45px;
+
+}
+.detail h3{
+    line-height: 450px;
+    color: white;
+}

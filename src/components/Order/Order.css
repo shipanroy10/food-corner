@@ -1,0 +1,11 @@
+.order{
+    text-align: center;
+    margin-top: 0px;
+    color: white;
+}
+.order h1{
+    line-height: 200px;
+}
+.order a {
+    color:rgb(212, 224, 33);
+}

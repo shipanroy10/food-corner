@@ -1,0 +1,50 @@
+.login{
+    color: yellow;
+}
+.login-form{
+  
+    margin :20px 80px;
+}
+.login-form input{
+    display: block;
+    margin-top: 20px;
+    padding: 2px;
+    border: 1 px solid gray;
+    border-radius: 5px;
+    width: 300px;
+}
+.form{
+    width: 500px;
+    height: 600px;
+    text-align: center;
+    border: 1 px solid black;
+    background-color: rgba(165, 200, 219, 0.137);
+    border-radius: 20px;
+    margin-top: 50px
+
+    ;
+}
+.form h4{
+    color: white;
+}
+.logo{
+    width: 25px;
+    height: 25px;
+}
+.button{
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(188, 226, 228, 0.233);
+    margin-top: 3px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+.form h6{
+    color: white;
+}
+::-webkit-input-placeholder { 
+    color: rgb(16, 236, 134);
+  }
+  .change-input{
+      background-color: tomato;
+      color: yellow;
+  }

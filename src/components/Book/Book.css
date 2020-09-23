@@ -1,0 +1,22 @@
+.book{
+    display: flex;
+    padding: 10px;
+ 
+}
+.book img{
+    width: 450px; height: 400px;
+   
+  
+    margin-top: 60px;
+}
+.second-half{
+    color: white;
+    margin-left: 20px;
+    list-style: upper-alpha;
+    margin-top: 60px;
+   
+
+}
+.second-half h3{
+    line-height: 70px;
+}

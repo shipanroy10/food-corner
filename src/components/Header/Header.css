@@ -1,0 +1,21 @@
+.nav{
+    background-color: black;
+   text-align: center;
+ 
+}
+nav a {
+  color: rgba(64, 197, 135, 0.887);
+    font-size: 25px;
+    padding: 2px;
+    margin: 5px;
+    text-decoration: none;
+}
+input[type="text"], textarea {
+
+    background-color : #9b8f8f00; 
+  
+  }
+  nav a:hover{
+color:white;
+text-decoration: none;
+  }
